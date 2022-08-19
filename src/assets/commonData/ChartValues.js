@@ -13,7 +13,6 @@ export const chartOptions = {
   options: {
     chart: {
       background: "transparent",
-      zoom: { enabled: false },
     },
     dataLabels: {
       enabled: false,
